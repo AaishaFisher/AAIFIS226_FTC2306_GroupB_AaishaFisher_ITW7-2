@@ -9,12 +9,7 @@ html {
 
 }
 
-img {
-    border-radius: 50%;
-    border-style: outset;
-    border-color: rgb(161, 141, 108);
    
-}
 
 /*editing section types*/
 
@@ -104,6 +99,7 @@ hr {
 
 #line1 {
     width: 60%;
+    color: antiquewhite;
 }
 
 
@@ -197,3 +193,12 @@ a {
   }
 
 /*form styling*/
+
+/*hero image*/
+.heroItems {
+    background-image: url("https://i.ibb.co/tb0XrMP/azzedine-rouichi-ZS-Xu-DZmxp-M-unsplash-1.jpg");
+    height: 400px;
+    width: 100%;
+    background-size: contain;
+    background-position: center;
+  }
